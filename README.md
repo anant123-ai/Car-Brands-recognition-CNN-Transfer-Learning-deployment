@@ -27,7 +27,6 @@ In this project we will be doing image recognition of car. we will be classify w
   - Number of image in rolls royce is 297
   - Number of image in Bentley is 221
 - Total number of image in test data is 180
-- 
 # Model Building 
 - Model2 is built using Vgg ResNet50 and adam optimizer , got validation acuuracy of 52% and train acurracy of 40%[link text](https://)
 - Model2 is built using Vgg16 and adam optimizer , got validation acuuracy of 81% and train acurracy of 97%
